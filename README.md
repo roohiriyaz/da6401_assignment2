@@ -5,4 +5,4 @@ Deep Learning Assignment 2 - Building CNN from scratch and fine-tuning pre-train
 
 Both parts are implemented using PyTorch and logged in Weights and Biases (wandb)
 
-detailed info are present inside each folder. 
+detailed information are present inside each folder. 
